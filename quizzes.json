@@ -13,28 +13,6 @@
           "answer": "a"
         }
       ]
-    },
-    {
-      "id": 1778769969159,
-      "title": "ITP -4",
-      "questions": [
-        {
-          "question": "What does CSS stand for?",
-          "options": [
-            "Cascading Style Sheets",
-            "Creative Style Sheets"
-          ],
-          "answer": "Cascading Style Sheets"
-        },
-        {
-          "question": "What does HTML stand for?",
-          "options": [
-            "Home Text Machine Language",
-            "Hyper Text Markup Language"
-          ],
-          "answer": "Hyper Text Markup Language"
-        }
-      ]
     }
   ]
 }
